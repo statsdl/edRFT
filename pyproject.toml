@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "edrft"
-version = "0.1.4"
+version = "0.1.5"
 description = "RFT and edRFT models for significant wave-height time-series forecasting."
 readme = "PYPI_README.md"
 requires-python = ">=3.10"
@@ -14,7 +14,7 @@ authors = [
     {name = "Aryan Bhambu"},
     {name = "Ruobin Gao"},
     {name = "Ponnuthurai Nagaratnam Suganthan"},
-    {name = "Selvaraju Natarajan"},
+    {name = "Natarajan Selvaraju"},
 ]
 keywords = ["edrft", "rft", "rvfl", "transformer", "wave-height", "forecasting"]
 classifiers = [
