@@ -209,7 +209,6 @@ examples/         Usage examples
 tests/            Unit tests
 .github/          CI and PyPI publishing workflows
 wave/             Sample wave-height data files
-legacy/           Archived research scripts for traceability
 ```
 
 The supported public API lives in `src/edrft`. Use the examples and package modules for new work.
