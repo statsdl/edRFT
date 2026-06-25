@@ -189,11 +189,4 @@ If you use this package in your research, please cite:
   year={2025},
   publisher={Elsevier}
 }
-```
 
-## Authors
-
-- Aryan Bhambu
-- Ruobin Gao
-- Ponnuthurai Nagaratnam Suganthan
-- Natarajan Selvaraju

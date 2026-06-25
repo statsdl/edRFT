@@ -14,7 +14,7 @@ authors = [
     {name = "Aryan Bhambu"},
     {name = "Ruobin Gao"},
     {name = "Ponnuthurai Nagaratnam Suganthan"},
-    {name = "Natarajan Selvaraju"},
+    {name = "Selvaraju Natarajan"},
 ]
 keywords = ["edrft", "rft", "rvfl", "transformer", "wave-height", "forecasting"]
 classifiers = [
