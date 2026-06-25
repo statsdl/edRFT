@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use edRFT in academic work, please cite this software and the associated article."
+title: "edRFT"
+version: "0.1.0"
+date-released: "2026-06-25"
+authors:
+  - family-names: "Bhambu"
+    given-names: "Aryan"
+license: "MIT"
+repository-code: "https://github.com/statsdl/edRFT"
+preferred-citation:
+  type: article
+  title: "Deep random vector functional link transformer network with multiple output layers for significant wave height forecasting"
+  authors:
+    - family-names: "Bhambu"
+      given-names: "Aryan"
+    - family-names: "Gao"
+      given-names: "Ruobin"
+    - family-names: "Suganthan"
+      given-names: "Ponnuthurai Nagaratnam"
+    - family-names: "Natarajan"
+      given-names: "Selvaraju"
+  journal: "Applied Soft Computing"
+  year: 2025
+  start: "114136"
